@@ -3,7 +3,7 @@
 
 ####  I'm Nick!  I'm a former elementary teacher turned software engineer.  Thank you for visiting my small corner of the world.
 
-You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).
+You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).  Also, please visit my [Turing Alumni Page](https://alumni.turing.io/alumni/nick-taylor) to view a few of my favorite projects.
 
 <!-- Links to your social media accounts -->
 
