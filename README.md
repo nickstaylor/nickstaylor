@@ -11,10 +11,10 @@ You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).  Also, pl
 ___
 
 - 🔭 I just completed my first professinal software developer contract at [PlatCore](https://www.platcore.com/) in Denver, working on the ServiceNow Platform using Angular.js and the ServiceNow API.  I am currently looking for my first full-time software engineer position.
-- 🌱 I'm currently learning React Native, C#, and having fun refactoring some old projects!
+- 🌱 I'm currently learning .NET, C#, and having fun refactoring some old projects!
 - 💬 Ask me about Vanilla JS, React Hooks, or how to hit a one-handed backhand.
 - 😄 Pronouns: he, him his 😃
-- 🎓 I am a proud recent graduate of the [Turing School of Software and Design](www.turing.io).  I have a Front-End Certification.
+- 🎓 I am a proud recent graduate of the [Turing School of Software and Design](https://www.turing.io).  I have a Front-End Certification.
 - ⚡ Fun fact: I learned about coding when I directed a kid's tech camp for a summer.
 ___
 ### 🔧 Technologies & Tools
