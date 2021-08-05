@@ -3,14 +3,14 @@
 
 ####  I'm Nick!  I'm a former elementary teacher turned software engineer.  Thank you for visiting my small corner of the world.
 
-You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).  Also, please visit my [Turing Alumni Page](https://alumni.turing.io/alumni/nick-taylor) to view a few of my favorite projects.
+You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/nick-s-taylor/
 ___
 
-- 🔭 I just completed my first professinal software developer contract at [PlatCore](https://www.platcore.com/) in Denver, working on the ServiceNow Platform using Angular.js and the ServiceNow API.  I am currently looking for my first full-time software engineer position.
+- 🔭 I currently work as a software developer for Cherry Creek Schools(https://www.cherrycreekschools.org/) in Aurora, working in Backbone.js on the FE and C# on the BE.
 - 🌱 I'm currently learning .NET, C#, and having fun refactoring some old projects!
 - 💬 Ask me about Vanilla JS, React Hooks, or how to hit a one-handed backhand.
 - 😄 Pronouns: he, him his 😃
