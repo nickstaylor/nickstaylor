@@ -10,7 +10,7 @@ You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).
 [1]: https://www.linkedin.com/in/nick-s-taylor/
 ___
 
-- 🔭 I currently work as a software developer for Cherry Creek Schools(https://www.cherrycreekschools.org/) in Aurora, working in Backbone.js on the FE and C# on the BE.
+- 🔭 I currently work as a software developer for [Cherry Creek Schools](https://www.cherrycreekschools.org/) in Aurora, working in Backbone.js on the FE and C# on the BE.
 - 🌱 I'm currently learning .NET, C#, and having fun refactoring some old projects!
 - 💬 Ask me about Vanilla JS, React Hooks, or how to hit a one-handed backhand.
 - 😄 Pronouns: he, him his 😃
