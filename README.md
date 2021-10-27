@@ -3,7 +3,7 @@
 
 ####  I'm Nick!  I'm a former elementary teacher turned software engineer.  Thank you for visiting my small corner of the world.
 
-You can find me on [linkedIn][1] or [email me](nickstaylor@gmail.com).
+You can find me on [linkedIn][1] or [email me](mailto:nickstaylor@gmail.com).
 
 <!-- Links to your social media accounts -->
 
